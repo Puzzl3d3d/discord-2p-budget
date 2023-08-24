@@ -6,3 +6,6 @@
 !/client.py
 !/server.py
 !/README.md
+
+!/client distribute.py
+!/server distribute.py
