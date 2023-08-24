@@ -1,3 +1,7 @@
-/ddos (fixed).py
-/mode.md
-/session.md
+# Ignore everything
+*
+
+# But not these files:
+
+!/client.py
+!/server.py
