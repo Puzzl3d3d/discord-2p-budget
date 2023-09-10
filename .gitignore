@@ -1,11 +1,4 @@
-# Ignore everything
 *
 
-# But not these files:
-
-!/client.py
-!/server.py
-!/README.md
-
-!/client distribute.py
-!/server distribute.py
+!/src/*
+!/dist/*
